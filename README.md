@@ -6,7 +6,8 @@
 
 [hiddifynext](https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-Android-universal.apk)
 
-سپس لینک زیر را کپی کرده و در هدیفای اضافه کنید.چ
+سپس لینک زیر را کپی کرده و در هدیفای اضافه کنید.
 ```
 https://raw.githubusercontent.com/proxystore11/warp/main/Warp
 ```
+[کانفیگ‌کده](https://t.me/proxystore11) | [پروکسی‌کده](https://t.me/proxystoremt11)
