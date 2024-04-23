@@ -1,5 +1,16 @@
-warp://188.114.99.73:4177/?ifp=5-10#proxystore11
-warp://162.159.192.207:955/?ifp=5-10#proxystore11
-warp://162.159.192.33:1018/?ifp=5-10#proxystore11
-warp://162.159.192.143:878/?ifp=5-10#proxystore11
-warp://162.159.192.2120:878/?ifp=5-#proxystore11
+//profile-title: base64:8J+UpSBXQVJQIPCflKU=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/proxystore11
+//profile-web-page-url: https://proxystore11.site
+
+#warp://auto?ifp=10-20&ifps=40-100&ifpd=10-20#Warp_10-20_40-100_10-20
+#warp://auto?ifp=10-20&ifps=40-100&ifpd=30-200#Warp_10-20_40-100_30-50
+#warp://auto?ifp=10-20&ifps=40-100&ifpd=300-500#Warp_10-20_40-100_300-500
+
+
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp_5-10_40-100_10-20
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp_5-10_40-100_30-50
+#warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp_5-10_40-100_300-500
+
+warp://auto#proxystore11&&detour=warp://auto#proxystore11
