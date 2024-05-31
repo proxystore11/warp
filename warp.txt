@@ -1,6 +1,6 @@
-1warp://[2606:4700:d0::379:df54:264a:3a50]:7281/?ifp=5-10#Proxystore11mci
-2warp://[2606:4700:d0::9e9c:26b6:3021:2db3]:1387/?ifp=5-10#Proxystore11mci
-3warp://162.159.192.201:1010/?ifp=5-10#Proxystore11MTN
-4warp://188.114.96.208:988/?ifp=5-10#Proxystore11MTN
-5warp://162.159.192.38:5279/?ifp=5-10#Proxystore11MTN
-6warp://[2606:4700:d1::11f7:99c1:f4a3:3b0]:939/?ifp=5-10#Proxystore11MTN
+warp://[2606:4700:d0::379:df54:264a:3a50]:7281/?ifp=5-10#Proxystore11mci
+warp://[2606:4700:d0::9e9c:26b6:3021:2db3]:1387/?ifp=5-10#Proxystore11mci
+warp://162.159.192.201:1010/?ifp=5-10#Proxystore11MTN
+warp://188.114.96.208:988/?ifp=5-10#Proxystore11MTN
+warp://162.159.192.38:5279/?ifp=5-10#Proxystore11MTN
+warp://[2606:4700:d1::11f7:99c1:f4a3:3b0]:939/?ifp=5-10#Proxystore11MTN
