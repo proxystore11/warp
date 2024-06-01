@@ -10,5 +10,8 @@
 ```
 https://raw.githubusercontent.com/proxystore11/warp/main/Warp
 ```
+```
+https://raw.githubusercontent.com/proxystore11/warp/main/Warp
+```
 [کانفیگ‌کده](https://t.me/proxystore11) | [پروکسی‌کده](https://t.me/proxystoremt11)
 
