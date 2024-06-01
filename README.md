@@ -7,9 +7,9 @@
 [hiddifynext](https://github.com/hiddify/hiddify-next/releases/download/v1.1.1/Hiddify-Android-universal.apk)
 
 سپس لینک زیر را کپی کرده و در هدیفای اضافه کنید.
-***
+*
 MTN
-***
+*
 ```
 https://raw.githubusercontent.com/proxystore11/warp/main/Warp
 ```
