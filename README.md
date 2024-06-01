@@ -9,10 +9,12 @@
 سپس لینک زیر را کپی کرده و در هدیفای اضافه کنید.
 
 
-*MTN*
+**MTN**
 ```
 https://raw.githubusercontent.com/proxystore11/warp/main/Warp
 ```
+
+**MCI**
 ```
 https://raw.githubusercontent.com/proxystore11/warp/main/Warp.txt
 ```
